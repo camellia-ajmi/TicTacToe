@@ -57,3 +57,6 @@ while True:
     replay = input("Voulez-vous jouer à nouveau ? (oui/non): ").lower()
     if replay != 'oui':
         break
+
+
+    print("hello")
